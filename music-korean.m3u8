@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Music (Korean)" tvg-language="Korean" tvg-logo="https://yt3.ggpht.com/rt1bDWIkFPoQblyNJnQsf1LisM9i88QKRUU-NZu9fmQ0ogyLvUVVUJe1ufaEN0E8DiZk2RgYwg", ALL THE K-POP
+https://ythls-v3.onrender.com/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8?playlist=music-korean
+
+#EXTINF:-1 group-title="Music (Korean)" tvg-language="Korean" tvg-logo="https://yt3.ggpht.com/A3Z_lyAr5kG2vIKw30JqI8Lr-2Mp3M06VT7j72qpJuejierptoh_8SX6FDmH9UQ8PL_GjP_RBg", Arirang Radio K-Pop
+https://ythls-v3.onrender.com/channel/UCUSSnoEQ8DSRK-gnWS0vfyA.m3u8?playlist=music-korean
+
+#EXTINF:-1 group-title="Music (Korean)" tvg-language="Korean" tvg-logo="https://yt3.ggpht.com/Sf78Tu12_JgshfoEnx1ndkt_jzWFqV5YSz3zN289y7LodIVbp1DUgQGGIJMdCCeyHxwyAWXhNw", THE K-POP
+https://ythls-v3.onrender.com/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8?playlist=music-korean
+
+#EXTINF:-1 group-title="Music (Korean)" tvg-language="Korean" tvg-logo="https://yt3.ggpht.com/qjY5_GcDN5xdZeI2sLZSSD8eUt-AL2QMsLueHXTNiIMpyddJ0kRWhP5gZrCGsB97EaTDGnSE4Q4", THE K-POP2
+https://ythls-v3.onrender.com/channel/UCITH7URIRpb8yoshUwGE9jg.m3u8?playlist=music-korean

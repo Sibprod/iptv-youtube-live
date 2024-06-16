@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="News Bangladesh (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nqUw6usp-55Jq6PXGoFY-KI4znTgUcoNAvRiF6vO9e7yo", ATN News
+https://ythls-v3.onrender.com/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8?playlist=news-bangladesh-bengali
+
+#EXTINF:-1 group-title="News Bangladesh (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/P8XVWOQZ2Eel4CqqOeNbt-aPv2cahpsShVCFGoZZA01jzfXGT3hl_BfHq-qrxmp922j64iq_", ATN News Live
+https://ythls-v3.onrender.com/channel/UCKlhfq1ILoAFav7iw5iCnfA.m3u8?playlist=news-bangladesh-bengali
+
+#EXTINF:-1 group-title="News Bangladesh (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/Ie00zX6Axc_Yr9ETae-kt6QlvwSpz5FMLY5eEr9k0b-MYMb8KBjeybjGJL_zgt4aa55NLEFjUA", Bangladesh Awami League Official
+https://ythls-v3.onrender.com/channel/UC69wxSBQmdp00E_f_v7YKZw.m3u8?playlist=news-bangladesh-bengali
+
+#EXTINF:-1 group-title="News Bangladesh (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/nRiPzBbLZ0TZnTfIqkD_wQM88MhlZilDX7gQsNEtbStD2gGybUxb8svTJNFsWr2lF--ZnPRu", BanglaVision LIVE
+https://ythls-v3.onrender.com/channel/UCAIEufoszs1J38-pKECORRg.m3u8?playlist=news-bangladesh-bengali
+
+#EXTINF:-1 group-title="News Bangladesh (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kH8ZRrqmyMFB8LuxDJL5OFx2M-hHRDgBZ8mg_tClpGxGQ", DBC NEWS
+https://ythls-v3.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8?playlist=news-bangladesh-bengali
+
+#EXTINF:-1 group-title="News Bangladesh (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/KoJ2pT4X6j0kPf8g8MRv5MaRVR_ZRW18Fyb_U0U7azCr10kQEtpY5GIz3M9GZ0ZQazfGaP9I", Ekattor TV
+https://ythls-v3.onrender.com/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8?playlist=news-bangladesh-bengali
+
+#EXTINF:-1 group-title="News Bangladesh (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nu33uPAlKn2PO1Sk88ppYIIu3Lbs2VAsVJDQa9s0LOLTc", Jamuna TV
+https://ythls-v3.onrender.com/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8?playlist=news-bangladesh-bengali

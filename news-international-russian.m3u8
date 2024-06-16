@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="News International (Russian)" tvg-language="Russian" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kAAZYRIMttbNPe3LjFyjv_XEggSYt46_tgSL-LL-cZt-E", DW на русском
+https://ythls-v3.onrender.com/channel/UCXoAjrdHFa2hEL3Ug8REC1w.m3u8?playlist=news-international-russian
+
+#EXTINF:-1 group-title="News International (Russian)" tvg-language="Russian" tvg-logo="https://yt3.ggpht.com/VG-hWBSY602L8iSO2Q8_OVn5dhF1oU4BXxefzHt1LroWit79aJ8kEYqG6zGqf6UuUP3w8npd", Euronews по-русски
+https://ythls-v3.onrender.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A.m3u8?playlist=news-international-russian

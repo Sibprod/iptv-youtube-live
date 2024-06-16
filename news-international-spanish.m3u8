@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="News International (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/wp9csTLasAlwjq6Sj4WFIGc_FobrMjdAXbwqBQOylyhnsv0uSf4dDvv50DY1UX10hujeflBaqw", DW Español
+https://ythls-v3.onrender.com/channel/UCT4Jg8h03dD0iN3Pb5L0PMA.m3u8?playlist=news-international-spanish
+
+#EXTINF:-1 group-title="News International (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/qFkd6lZgU09CvQP-6pJggpIlXwW4h0TLM8DvtHGTsOteRWmFYstP8OyypJvtOekV2bHXikxBRg", euronews (en español)
+https://ythls-v3.onrender.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw.m3u8?playlist=news-international-spanish
+
+#EXTINF:-1 group-title="News International (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA", FRANCE 24 Español
+https://ythls-v3.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8?playlist=news-international-spanish

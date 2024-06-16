@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Lifestyle (Telugu)" tvg-language="Telugu" tvg-logo="", ETV Jabardasth
+https://ythls-v3.onrender.com/channel/UCnoqvTW4YZExfDeq7_Wmd.m3u8?playlist=lifestyle-telugu
+
+#EXTINF:-1 group-title="Lifestyle (Telugu)" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/QwQ2wG_Esi7CkaIVdsf6Ofem0038Wh0bl98gZxF91Ej26RjAH58VborYhzO1_4BUrKGaDzUVBA", ETV Originals
+https://ythls-v3.onrender.com/channel/UCrhHQd5lAQZz3xRLaCJmitA.m3u8?playlist=lifestyle-telugu

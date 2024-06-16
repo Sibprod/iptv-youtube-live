@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/zFE1hY592c-PSbjLDM_kDaGS3pcqOUCYFh3ykWhPBzrh3U2ROjALGxDDF3kSMjuKNLKKHXqY", 24 News HD
+https://ythls-v3.onrender.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8?playlist=news-pakistan-urdu
+
+#EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/sJ8nMAbzs2lreEaBW2viL9VCvud_FkkDmFRa4es3Y5zOht6PpBNM56pNIAoh395B6FhYaxTFiVM", 92 News HD
+https://ythls-v3.onrender.com/channel/UCsgC5cbz3DE2Shh34gNKiog.m3u8?playlist=news-pakistan-urdu
+
+#EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/fK5tCx2JJWHFBtJ8gXdCnO8Ou5QFqaikka3I4butftV0eCiaa3H-xddAMzZxvJ-TjyePJ1VI", Aaj TV Official
+https://ythls-v3.onrender.com/channel/UCgBAPAcLsh_MAPvJprIz89w.m3u8?playlist=news-pakistan-urdu
+
+#EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/8MgGnCb9dHfbHSEgMwBTXMDn9BFB0ShglqAUlJJeksE_w5GVNzAStk1O6yPnng22_R4lgsWx", ARY News
+https://ythls-v3.onrender.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8?playlist=news-pakistan-urdu
+
+#EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_ltoGlKW_jVNov9xiOqaXZLxIsDdsvhmW5YC_noO0-_Bio", GNN
+https://ythls-v3.onrender.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8?playlist=news-pakistan-urdu
+
+#EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/ROrwikOH_F5vU4BJW-LbkcEiSr-i6we4y4kHrCPbipmbWbOxR1kFHdzeednBSqd0LR2C-SgCxA", SAMAA TV
+https://ythls-v3.onrender.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8?playlist=news-pakistan-urdu

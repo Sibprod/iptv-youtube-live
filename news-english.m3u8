@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/67h6bB9Vlw5SpQkWek4Uk8weqxzaPNGH76sAMK4j431Jx8JlUt8mblVlTCwseeb7rDavn3yBJA", Bloomberg Quicktake
+https://ythls-v3.onrender.com/channel/UChirEOpgFCupRAk5etXqPaA.m3u8?playlist=news-english
+
+#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_n00DzE39o-4IFJ07IP3gG__TMqKxXXbwYaARinwTXTDFM", CNA
+https://ythls-v3.onrender.com/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8?playlist=news-english
+
+#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/4m7yvjIhOhtCXb905kcNQl6EXt5AzDXvmx6pN5WxbMtd1hylOZDESw6lvV77UjPWtQ--JizW8w", CNN-News18
+https://ythls-v3.onrender.com/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8?playlist=news-english
+
+#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mhklaGL8Bhv52CUPcBs7hkD_NvL1T6b98voTSC0aCTxmM", United Nations
+https://ythls-v3.onrender.com/channel/UC5O114-PQNYkurlTg6hekZw.m3u8?playlist=news-english

@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="News Russia (Russian)" tvg-language="Russian" tvg-logo="https://yt3.ggpht.com/WeW6LZ-hWoXuS-gTh8BvNZaXEW-iFuHrVTMy9qQAqO9XZVzG7H3x6FQVriGmvrqXB5YoroKp0w", FREEДOM
+https://ythls-v3.onrender.com/channel/UCt3igz3aIXfS108KV_jZsMA.m3u8?playlist=news-russia-russian
+
+#EXTINF:-1 group-title="News Russia (Russian)" tvg-language="Russian" tvg-logo="https://yt3.ggpht.com/hq8Ez4Aso26HVHY2jxiJ2pXFbHVCHac2qsGlWxnwwv_T1QpePpJZBW5aYz2uWstvXzVHKVKj9g4", FREEДOM. LIVE
+https://ythls-v3.onrender.com/channel/UCOqFkpNwNLPGOb8EC-mwZYg.m3u8?playlist=news-russia-russian
+
+#EXTINF:-1 group-title="News Russia (Russian)" tvg-language="Russian" tvg-logo="https://yt3.ggpht.com/M6Zz3KVv3U6bu2jUpZYGLOrXlm8MnesT-ek1twNkgUfj5JSt76vBxjW8poe_R576VYhs8156rQ", The Insider Live
+https://ythls-v3.onrender.com/channel/UCS3maDoYHOG7WzN_ESSWC-g.m3u8?playlist=news-russia-russian
